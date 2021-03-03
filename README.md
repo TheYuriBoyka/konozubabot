@@ -1,0 +1,2 @@
+# konozubabot
+bot chidori
